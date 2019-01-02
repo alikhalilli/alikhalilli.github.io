@@ -31,10 +31,10 @@ In my opinion, computer science will help faster improvement of human race.
 
 ### Experience
 
-* **Engineering Support at UNDP organization** _(2012)_
-* **Distributed Systems Engineer at TotalIT. ** _(2013 - 2016)_
-* **Engineer at Azercell, part of TeliaSonera** _(2016 - 2017)_
-* **Senior Engineer at Azercell** *(2017 - 2018)*
+- **Engineering Support at UNDP organization** _(2012)_
+- **Distributed Systems Engineer at TotalIT.**  _(2013 - 2016)_
+- **Engineer at Azercell, part of TeliaSonera** _(2016 - 2017)_
+- **Senior Engineer at Azercell** *(2017 - 2018)*
 
 ![Azercell](/assets/azercell.png){:class="img-responsive"}
 ![UNDP](/assets/undp.png){:class="img-responsive"}
